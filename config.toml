@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://tjp.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Travis Parker"
+theme = "etch"
+
+[params]
+copyright = "Copyright 2020 Travis J Parker"
