@@ -7,6 +7,7 @@ rssLimit = 10
 
 [params]
   copyright = "Copyright © 2020 Travis J Parker"
+  mainSections = ["posts"]
 
 [author]
   name = "Travis Parker"
