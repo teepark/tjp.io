@@ -1,7 +1,7 @@
 title = "Travis Parker"
 baseURL = "https://tjp.io/"
 languageCode = "en-us"
-theme = "etch-tjp"
+theme = "etch"
 copyright = "Copyright © 2020 Travis J Parker"
 rssLimit = 10
 disableKinds = ["taxonomy", "term"]
