@@ -3,6 +3,7 @@ baseURL = "https://tjp.io/"
 languageCode = "en-us"
 theme = "etch"
 copyright = "Copyright © 2020 Travis J Parker"
+rssLimit = 10
 
 [params]
   copyright = "Copyright © 2020 Travis J Parker"
