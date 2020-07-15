@@ -2,10 +2,10 @@ title = "Travis Parker"
 baseURL = "https://tjp.io/"
 languageCode = "en-us"
 theme = "etch"
-copyright = "Copyright 2020 Travis J Parker"
+copyright = "Copyright © 2020 Travis J Parker"
 
 [params]
-  copyright = "Copyright 2020 Travis J Parker"
+  copyright = "Copyright © 2020 Travis J Parker"
 
 [author]
   name = "Travis Parker"
