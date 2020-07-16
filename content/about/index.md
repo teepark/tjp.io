@@ -7,8 +7,6 @@ menu: "main"
 
 ![profile photo](/images/profile.jpg)
 
-Hi, I'm Travis! I'm 36 and live in northern California.
+Travis is a husband, father, and Jesus follower in northern California.
 
-I love my faith, family, home, and job. I'm also very much into photography, surfing, software, and reading books. With all the social upheaval going on in June and July 2020 I've devoted myself to better understanding the injustices in our society. So I'll probably write about some of those things.
-
-This is about my dozenth attempt at sticking with a personal website though, so let's see how it goes!
+He's into surfing, software, social justice, photography, books, and any possible overlaps between them.
