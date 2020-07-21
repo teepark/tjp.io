@@ -4,6 +4,7 @@ languageCode = "en-us"
 theme = "etch-tjp"
 copyright = "Copyright © 2020 Travis J Parker"
 rssLimit = 10
+disableKinds = ["taxonomy", "term"]
 
 [params]
   copyright = "Copyright © 2020 Travis J Parker"
