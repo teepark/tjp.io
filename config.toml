@@ -12,3 +12,6 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Travis Parker"
+
+[markup.goldmark.renderer]
+  unsafe = true
