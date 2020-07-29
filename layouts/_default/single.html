@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article>
+    <header id="post-header">
+        <h1>{{ .Title }}</h1>
+        {{- if isset .Params "date" -}}
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+        {{- end -}}
+    </header>
+    {{- .Content -}}
+    <script type="text/javascript">Array.from(document.getElementsByTagName("a")).map((el) => ({"href": el.getAttribute("href"), "el": el})).filter(({el, href}) => /^\d{14}$/.test(href)).forEach(({el, href}) => el.setAttribute("href", "../" + href));</script>
+</article>
+{{ end }}
